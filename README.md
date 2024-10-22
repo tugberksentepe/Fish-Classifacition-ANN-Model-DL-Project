@@ -63,13 +63,6 @@ jupyter notebook fish-classifacition-ann-model.ipynb
 - Detailed performance metrics available in notebook
 - Visual predictions on sample images
 
-## 🤝 Contributing
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
 ## 📜 License
 This project is licensed under the Apache-2.0 license - see the LICENSE.md file for details
 
