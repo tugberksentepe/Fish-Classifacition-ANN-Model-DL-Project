@@ -1,7 +1,7 @@
 # 🐟 Deep Learning Fish Classification Project
 
 ## Project Overview
-This project implements a deep learning model to classify different species of fish using a large-scale fish dataset. The model uses an Artificial Neural Network (ANN) architecture with various optimization techniques.
+This project implements a deep learning model to classify different species of fish using a large-scale fish dataset. The model uses an Artificial Neural Network (ANN) architecture with various optimization techniques. [Kaggle Link](https://www.kaggle.com/code/sentepetugberk/fish-classifacition-ann-model)
 
 *This project was developed within the scope of "Akbank Deep Learning Bootcamp: New Generation Project Camp". I would like to thank the Global AI Hub Türkiye team for their support and this opportunity they provided.*
 
